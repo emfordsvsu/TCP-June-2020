@@ -1,0 +1,12 @@
+print("Day of the week?")
+date = input("Thursday")
+print("Breakfast calories?")
+breakfast = int(input(250))
+print("Lunch calories?")
+lunch = int(input(250))
+print("Dinner calories?")
+dinner = int(input(250))
+print("Snack calories?")
+snack = int(input(250))
+total = breakfast + lunch + dinner + snack
+print("Calorie content for " + date + ": " + str(total))
