@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My First HTML Page</title>
+</head>
+
+<body>
+ 
+  <h1>Hello everyone, thanks for visiting my page!</h1>
+
+  <img src="JeremiahAdeyemiWSOTR.jpg">
+
+  <a href="https://www.google.com" target="_blank">Opens new tab</a>
+  <br>
+
+
+  <strong><a>href="https://www.youtube.com"</a></strong>
+  <br>
+
+
+  <a href="#">Placeholder link</a>
+
+</body>
+
+</html>
